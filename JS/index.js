@@ -5,7 +5,7 @@ var config = {
   height: 600,
   backgroundColor: '#000000',
   parent: 'contenedor',
-  scene: [Cargar,Start, SceneA, Perdiste, Ganaste],
+  scene: [Cargar,Start, SceneA, SceneB, Perdiste, Ganaste],
   physics: {
     default: 'arcade',
     arcade: {
