@@ -84,7 +84,7 @@ class Cargar extends Phaser.Scene {
         frameHeight: 16
       }
     );
-    this.load.image('base', 'assets/star.PNG');
+    this.load.image('base', 'assets/star.png');
     this.load.image('background', 'assets/purple.png');
     this.load.image('enemigo', 'assets/enemyRed32.png')
     this.load.image('ground', 'assets/platform.png');
